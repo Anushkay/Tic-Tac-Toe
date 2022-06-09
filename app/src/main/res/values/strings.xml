@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Tic-Tac-Toe</string>
+    <string name="heading" translatable="false">Tic-Tac-Toe</string>
+    <string name="tic_tac_toe" translatable="false">Tic-Tac-Toe</string>
+    <string name="grid" translatable="false">our grid</string>
+
+    <string name="tic1" translatable="false">tic1</string>
+    <string name="tic2" translatable="false">tic2</string>
+    <string name="tic3" translatable="false">tic3</string>
+    <string name="tac1" translatable="false">tac1</string>
+    <string name="tac2" translatable="false">tac2</string>
+    <string name="tac3" translatable="false">tac3</string>
+    <string name="toe1">toe1</string>
+    <string name="toe2">toe2</string>
+    <string name="toe3">toe3</string>
+    <string name="status">X\'s  turn (Tap To Play)</string>
+</resources>
